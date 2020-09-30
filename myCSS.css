@@ -1,0 +1,30 @@
+﻿
+* {
+    font-weight:bold;
+}
+.container {
+    border: 8px red dashed;
+}
+
+.row {
+    min-height: 50px;
+    outline: 4px solid black;
+}
+
+.col {
+    outline: 4px solid black;
+}
+
+.col-9 {
+    outline: 4px solid black;
+}
+
+.col-1 {
+    outline: 4px solid black;
+}
+
+.bigger {
+    min-height: 100px;
+}
+
+
