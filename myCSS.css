@@ -2,7 +2,7 @@
 * {
     font-weight:bold;
 }
-.container {
+#red-border {
     border: 8px red dashed;
 }
 
